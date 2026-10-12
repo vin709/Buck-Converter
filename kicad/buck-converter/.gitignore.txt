@@ -1,0 +1,16 @@
+# KiCad Temporary & Backup Files
+*.bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*~
+#auto_saved_files#
+_autosave-*
+*-backups/
+
+# Local Project Settings & History
+*.kicad_prl
+.history/
+
+# Netlists & Autorouter Artifacts
+*.net
+*.ses
